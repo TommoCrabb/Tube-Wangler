@@ -1,0 +1,112 @@
+# This file contains a list of YouTube feeds. 
+# Lines starting with a # are ignored. 
+# The first field contains the YouTube channel's URL. 
+# The second field determines which file video URLs from this feed will be written to.
+# Everything after the second field is search terms.
+
+# Low Quality
+# =================================
+# ***CULTURE WARS***
+
+# TOP
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCzxm7bOKFrTMxCz6e-wPYuQ LOW Harmful Opinions *BANNED*
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCMIj-wEiKIcGAcLoBO2ciQQ LOW TL;DR
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCzd_MLszn8PYqc5Hq56qtOA LOW Noel Plum
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCaFNs3ETMvkmy0JahAS6WJA LOW Logicked
+# https://www.youtube.com/feeds/videos.xml?channel_id=UC22Ww9SlqutdlxyoKAbNsLQ LOW Iseth Original
+# https://www.youtube.com/feeds/videos.xml?channel_id=UClfqxOGWFlOMQWpIhbhzL2w LOW Bane 666AU
+# https://www.youtube.com/feeds/videos.xml?channel_id=UC72vWiZdUN_Y2OC2RgJ-dvA LOW Dr Randomercam
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCo1qRcO1OehgkOD_fHsu_uQ LOW Thinking Ape
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCmb8hO2ilV9vRa8cilis88A LOW Thunderf00t
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCQpltQMhYFvyeS5M6P0Zg-Q LOW Creationist Cat
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCdf14z6V0MWNeVcbAz0r8wQ LOW Mark Collett
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCLfhh63n0fWn0gXXKQ5NWvw LOW Millennial Woes
+
+# MIDDLE
+# https://www.youtube.com/feeds/videos.xml?channel_id=UC-yewGHQbNFpDrGM0diZOLA LOW Sargon
+# https://www.youtube.com/feeds/videos.xml?channel_id=UC6cMYsKMx6XicFcFm7mTsmA LOW Sargon Streams
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCpiCH7qvGVlzMOqy3dncA5Q LOW Sargon Shit
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCPZ3NSyI9G5BGzNKU_iEmMA LOW Gary Orsum
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCwW_vaMPlq8J4weKDsfeJzw LOW Bearing
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCLYcOeMcoFI5LYPfqR2PW8g LOW Morally Gray
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCjbgKUcTjpxmuW-8U0LR80Q LOW Independent Man
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCCvRxtCwW01dUkInqhEHneA LOW Danny Duchamp
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCAldq8BAAGdsX9UyK_09-ZA LOW Jeff Holiday
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCr_Q-bPpcw5fJ-Oow1BW1NQ LOW Kraut and Tea
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCUMEY7WqI66LhMuAC_V7tAw LOW Gryffix
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCDWmp9u3xBGwFR1iEIeEyOg LOW SkepTorr
+# https://www.youtube.com/feeds/videos.xml?channel_id=UC8kf0zcrJkz7muZg2C_J-XQ LOW Angry Foreigner
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCT9D87j5W7PtE7NHOR5DUOQ LOW Irish Dave
+# https://www.youtube.com/feeds/videos.xml?channel_id=UClzNJ7y2Q6wY0tEOzE6EM9Q LOW Vernaculis
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCla6APLHX6W3FeNLc8PYuvg LOW Lauren Southern
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCLUrVTVTA3PnUFpYvpfMcpg LOW Roaming Millennial
+
+# ALT RIGHT
+# https://www.youtube.com/feeds/videos.xml?channel_id=UC9vwJXx7DR-3zSub4mwQNFg LOW Tara McCarthy
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCOtFVJUoek4TKZAaeQVhiLA LOW Bre Faucheux
+
+# High Quality
+# =======================
+# ***ASMR***
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSO5KQBCz3GsuDOGLdu7NBw ASMR ASMR2n4
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2nyigZS5YNDrCu_pih809w ASMR Whispers Red ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgL7c6rQ8QordQ7k5p0i8Ag ASMR Whispers Red Kids ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6gLlIAnzg7eJ8VuXDCZ_vg ASMR Gentle Whispering ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UCq9cym_4rMYQ3_awT4twk4A ASMR Sleeping Pearl ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eddeJoyByJBjE4CYXwNXQ ASMR Heather Feather ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCjpp4TCjnRftS_LenXuSHw ASMR Jellybean ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UCaZSbl6ZE8FmA6sATtcmIZQ ASMR Whisper Audios ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyEngvQffc30CRNMAuNgHKw ASMR Melissa Rose ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UC53vVuTxfTUPZSZVPW1iitg ASMR Bright Grey ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLcyg3kjSwlUxjnQhSMqfmg ASMR Scottish Murmurs ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGfbWCJjPwcAlBNkHT3gQ6w ASMR Isabel Imagination ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_R9MQkCOSew6FswsZtHOEw ASMR Isabel Backstage ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UCE6acMV3m35znLcf0JGNn7Q ASMR Gibi ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHC6fhzmkO9pdwFwNaFvArw ASMR Darya Lozhkina ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJhQRAbu01LYCTXdCFdqg_Q ASMR Valeriya ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5K74ZbsjkUi3ohnq-vCcEw ASMR Jellybean Green ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQSvg4-j4HS2foQ7_umawoA ASMR Visual Sounds ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHrKd8ElaVdk7OBQAgx8JrQ ASMR ASMR Magic
+https://www.youtube.com/feeds/videos.xml?channel_id=UClqNSqnWeOOUVkzcJFj4rBw ASMR TingTing ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQe2Y7V-C9bNMAcCJCBvzQQ ASMR Latte ASMR
+https://www.youtube.com/feeds/videos.xml?channel_id=UCo-gAYrvd7WIrCRsNueddtQ ASMR KittyKlaw
+https://www.youtube.com/feeds/videos.xml?channel_id=UClMJgjg2z_IrRm6J9KrhcuQ ASMR Goodnight Moon 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4WzZ1afM09Z0-55dJBv6vg ASMR ASMR For Clods 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCX70sfic86MKcid2n0mmmqg ASMR ASMRequests 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCUuENVpVuzqpRsXWIDlpQTg ASMR Caroline ASMR 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCTjmsLT64HoxLiTzaAcytiw ASMR Sophie Michelle 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8OwlKvwoxQ-aMobz1oUriQ ASMR Laura LemureX
+https://www.youtube.com/feeds/videos.xml?channel_id=UC80UDR9O8vDvUVossfppxHg ASMR CatPlant
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7wT_mqUvCHEIWm1cuw_T1Q ASMR Blue Whisper
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfxzpCXkE3IkpuAJ7oXi3jg ASMR ASMR Attack
+#
+# =====================
+# ***OTHER***
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCaITiY0rLVsRr71dP-kQgEg SKIP SixGun TV
+https://www.youtube.com/feeds/videos.xml?channel_id=UCII0hP2Ycmhh5j8lS4cexBQ SKIP Red vs. Blue
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFzph9x-n9FR52BI94Zfgww SKIP MST3K
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvU3L4wOrubaBtQeTuZ3TiQ SKIP A Fox in Space
+https://www.youtube.com/feeds/videos.xml?channel_id=UCC1jCliC-puUaK1Zg7QY0hA SKIP Previously Recorded (RLM,Red Letter)
+https://www.youtube.com/feeds/videos.xml?channel_id=UCTXeNJgkXSNWH3kf7Uw7j4w 1080p ICWXP
+https://www.youtube.com/feeds/videos.xml?channel_id=UCIT9QSeqXyVteb3sOLjuclg 1080p Robo-Co-op (ICWXP)
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCGc8JKl5EvE8IjZ_qprNcQ 1080p Lead Balloon TV
+https://www.youtube.com/feeds/videos.xml?channel_id=UCV1G6JkQtB2nobFm3MGNsBQ 1080p Big Lez
+https://www.youtube.com/feeds/videos.xml?channel_id=UCF8RSmVAC132b_h2ch_KN9w 1080p The Gym Database (fitness)
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHrlzhElXyv2aTqMZznXAKw 1080p The DC3
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWP4rwZ4m2eoBZFqjGBevLA 720p 2000 AD
+https://www.youtube.com/feeds/videos.xml?channel_id=UCs7caOn0YaZfzznVuVI_4fA 720p Josh Way
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEHsSWvrGVSIA63OV3J6vhA 720p Storm Clouds Gathering
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrTNhL_yO3tPTdQ5XgmmWjA 720p Red Letter Media (RLM,Red Letter)
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2hsdw5JVa5B1dBTTYSPWhQ 720p Mr Plinkett (RLM,Red Letter)
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFKE7WVJfvaHW5q283SxchA 720p Yoga With Adriene (fitness)
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGb34D3ThpmjLNn-FLv2_yQ 720p PsycheTruth (fitness)
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJI4dS-3rg-VrlN8kfSMQnw 720p Sherclop Pones
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsvazPPlhZlch0-Z3wPByeg 720p Team 4 Star
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2NU0s1H0p9N4jvF7qV59vA 720p LK: CardGamesFTW
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6A33q8SpqYbyeF0GARRruQ 720p LK: Ninjabridge
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtgJiaJ0hFS-T4dZRybdXwA 720p LK: ObeyMyRod
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAVSMkmI_aequuz_jD1E5pw 720p Learn Czech with Rich
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwcxPTYqkg2JM3lFq6TifzA 720p SwankiVY
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvobIcGH8hbeWA-n3xeuj5w AUDIO Jem Jam 
